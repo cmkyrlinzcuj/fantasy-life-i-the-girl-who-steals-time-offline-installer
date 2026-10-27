@@ -26,6 +26,10 @@
 
 </div>
 
+<div align="center">
+<img width="460" height="215" alt="Fantasy Life i: The Girl Who Steals Time" src="https://raw.githubusercontent.com/cmkyrlinzcuj/fantasy-life-i-the-girl-who-steals-time-offline-installer/main/game.jpg" />
+</div>
+
 ---
 
 ## 📖 About Fantasy Life i: The Girl Who Steals Time
